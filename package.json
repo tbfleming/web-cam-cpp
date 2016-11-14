@@ -1,0 +1,11 @@
+{
+  "name": "web-cam-cpp",
+  "version": "0.0.1",
+  "description": "CAM functions compiled from C++ to JavaScript",
+  "main": "web-cam-cpp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Todd Fleming",
+  "license": "AGPL-3.0"
+}
